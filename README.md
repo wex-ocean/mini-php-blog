@@ -39,3 +39,14 @@ Built primarily for **learning backend development and PHP architecture**.
 - Organized file separation
 
 ---
+
+
+## 🛠 Tech Stack
+
+- **PHP (Core PHP)**
+- **MySQL**
+- **HTML5**
+- **CSS3**
+- **XAMPP / Local Server**
+
+---
