@@ -27,3 +27,15 @@ Built primarily for **learning backend development and PHP architecture**.
 - Display all blog posts
 - Clean homepage layout
 - Dynamic content rendering from database
+
+### 🗄 Database Integration
+- MySQL database connection
+- Structured tables for posts
+- Persistent data storage
+
+### ⚙️ Core Functionality
+- CRUD operations (Create, Read, Update, Delete)
+- Basic routing structure
+- Organized file separation
+
+---
