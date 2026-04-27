@@ -50,3 +50,17 @@ Built primarily for **learning backend development and PHP architecture**.
 - **XAMPP / Local Server**
 
 ---
+
+## 📂 Project Structure
+
+```bash id="w4xk91"
+mini-php-blog/
+│
+├── admin/             # Admin panel (CRUD operations)
+├── config/            # Database connection
+├── includes/          # Reusable components / functions
+├── public/            # Frontend (user-facing pages)
+├── sql/               # Database schema / setup files
+│
+├── index.php          # Entry point
+└── README.md
