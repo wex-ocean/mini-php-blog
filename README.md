@@ -13,3 +13,17 @@ This project is a lightweight blog system where:
 
 Built primarily for **learning backend development and PHP architecture**.
 
+---
+
+## ✨ Features
+
+### 📰 Blog Management (Admin)
+- Create new blog posts
+- Edit existing posts
+- Delete posts
+- Upload images for posts
+
+### 🌐 Frontend
+- Display all blog posts
+- Clean homepage layout
+- Dynamic content rendering from database
