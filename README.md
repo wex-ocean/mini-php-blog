@@ -64,3 +64,25 @@ mini-php-blog/
 │
 ├── index.php          # Entry point
 └── README.md
+
+⚙️ Installation & Setup
+1. Clone or Download
+git clone https://github.com/your-username/mini-php-blog.git
+2. Move to XAMPP
+
+Place project inside:
+
+htdocs/
+3. Start Server
+Start Apache
+Start MySQL
+4. Setup Database
+Open phpMyAdmin
+Import SQL file from /sql/ folder
+Update DB credentials in:
+config/database.php
+5. Run Project
+
+Open browser:
+
+http://localhost/mini-php-blog/
