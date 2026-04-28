@@ -86,3 +86,14 @@ config/database.php
 Open browser:
 
 http://localhost/mini-php-blog/
+
+⚙️ How It Works
+Admin Panel
+Handles CRUD operations for posts
+Interacts with database via PHP
+Frontend
+Fetches blog posts from database
+Displays them dynamically
+Database Layer
+Stores posts, images, and metadata
+Connected via config file
