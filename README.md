@@ -97,3 +97,17 @@ Displays them dynamically
 Database Layer
 Stores posts, images, and metadata
 Connected via config file
+
+🚀 Use Cases
+Beginner PHP learning project
+Understanding CRUD operations
+Learning MVC-like structure basics
+Backend practice without frameworks
+🔧 Possible Improvements
+Add authentication system (login/logout)
+Implement MVC architecture
+Add comments system
+SEO optimization
+Pagination for posts
+Image optimization & validation
+REST API support
