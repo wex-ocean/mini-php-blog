@@ -126,3 +126,13 @@ Convert into full CMS
 Add user roles (admin/editor)
 Integrate modern UI (Bootstrap/Tailwind)
 Migrate to Laravel or other frameworks
+
+🤝 Contributing
+
+Open to improvements, suggestions, and learning contributions.
+
+📄 License
+
+MIT License
+
+💡 Master the basics. Build the foundation. Scale to frameworks.
