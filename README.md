@@ -120,3 +120,9 @@ Security improvements needed (prepared statements, validation, etc.)
 🎯 Goal
 
 To understand how a basic CMS/blog system works internally using core PHP and MySQL without relying on frameworks.
+
+📌 Future Scope
+Convert into full CMS
+Add user roles (admin/editor)
+Integrate modern UI (Bootstrap/Tailwind)
+Migrate to Laravel or other frameworks
