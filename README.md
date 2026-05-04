@@ -116,3 +116,7 @@ REST API support
 This is a basic learning project
 Not optimized for production use
 Security improvements needed (prepared statements, validation, etc.)
+
+🎯 Goal
+
+To understand how a basic CMS/blog system works internally using core PHP and MySQL without relying on frameworks.
