@@ -111,3 +111,8 @@ SEO optimization
 Pagination for posts
 Image optimization & validation
 REST API support
+
+⚠️ Notes
+This is a basic learning project
+Not optimized for production use
+Security improvements needed (prepared statements, validation, etc.)
